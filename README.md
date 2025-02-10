@@ -1,7 +1,7 @@
 This Electricity Billing System is a Java Swing application with MySQL database integration.
 It allows users to manage customer details, calculate electricity bills, and generate printable invoices.
 
-📌 Features
+# Features
 🔹Add New Customers – Users can register new customers by entering their details.
 🔹View Customer Details – Displays a list of registered customers in a table format.
 🔹Calculate Bills – Computes the total bill based on units consumed and predefined rates.
@@ -9,7 +9,7 @@ It allows users to manage customer details, calculate electricity bills, and gen
 🔹View Last Bills – Retrieves previous billing history for a specific customer.
 🔹Print Bills – Supports bill printing for record-keeping.
 
-📌 Technologies Used
+# Technologies Used
 🔹 Java (Swing & AWT) – GUI Development
 🔹 JDBC (Java Database Connectivity) – Database interaction
 🔹 MySQL – Data storage for customers, bills, and taxes
