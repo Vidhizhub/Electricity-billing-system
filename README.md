@@ -5,7 +5,7 @@ The system allows administrators to register customers, calculate electricity bi
 This project follows the MVC (Model-View-Controller) architecture, ensuring a well-structured and maintainable codebase.
 The application is connected to a MySQL database to store customer details, billing records, and consumption data.
 
-# Features
+# 🎯 Features
 
 🔹 Customer Management
 Add new customers with details such as name, meter number, address, and contact information.
@@ -22,8 +22,8 @@ Display all past bills for quick reference.
 🔹 Print & Save Bills
 Generate a bill receipt and print it for record-keeping.
 
-# Technologies Used
-## 🛠️ Technologies Used  
+
+# 🛠️ Technologies Used  
 
 | **Technology**  | **Purpose** |
 |---------------|-----------|
@@ -33,7 +33,7 @@ Generate a bill receipt and print it for record-keeping.
 | **MVC Architecture** | Code organization |
 
 
-# Workflow
+# 🔄 Workflow
 
 1. Customer Registration
 Admin enters customer details, and the system assigns a meter number.
@@ -50,12 +50,12 @@ Past billing records can be retrieved for audit and reference.
 5. Print Bill
 The generated bill can be printed for physical records.
 
-# Installation & Setup
+# 🔧 Installation & Setup
 
 📜 Prerequisites
 Ensure you have the following installed:
-✔ Java JDK (8 or later)
-✔ MySQL Server
-✔ MySQL Connector for Java
+1. Java JDK (8 or later)
+2. MySQL Server
+3. MySQL Connector for Java
 
 
