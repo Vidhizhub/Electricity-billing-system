@@ -23,10 +23,15 @@ Display all past bills for quick reference.
 Generate a bill receipt and print it for record-keeping.
 
 # Technologies Used
-🔹 Java (Swing & AWT) – GUI Development
-🔹 JDBC (Java Database Connectivity) – Database interaction
-🔹 MySQL – Data storage for customers, bills, and taxes
-🔹 MVC Architecture – Organized code structure
+## 🛠️ Technologies Used  
+
+| **Technology**  | **Purpose** |
+|---------------|-----------|
+| **Java (Swing & AWT)** | GUI development |
+| **MySQL** | Database management |
+| **JDBC (Java Database Connectivity)** | Database connectivity |
+| **MVC Architecture** | Code organization |
+
 
 # Workflow
 
